@@ -1,0 +1,17 @@
+
+    h1{
+        color: blue;
+        border: 1px solid rebeccapurple;
+    }
+
+  .oparrafoRojo{
+    font-size: 20px;
+        border: 1px solid red;
+  }
+  .Parrafoverde{
+    color: chartreuse;
+    background-attachment: blue;
+    border: 2px solid blueviolet;
+    margin-top: 10;
+    padding-bottom: 30px;
+  }
