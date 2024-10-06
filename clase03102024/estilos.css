@@ -6,11 +6,10 @@
 }
 
 .fondo1 {
-    background: rgb(0,4,14);
-    background: linear-gradient(90deg, rgba(0,4,14,0.9164040616246498) 0%, rgba(9,9,121,0.896796218487395) 21%, rgba(0,212,255,1) 91%);
+    background: rgb(5,240,226);
+background: linear-gradient(90deg, rgba(5,240,226,0.9164040616246498) 2%, rgba(31,131,133,1) 46%, rgba(0,105,97,0.896796218487395) 81%);
 }
 
 .fondo2{
-    background: rgb(240,5,17);
-background: linear-gradient(90deg, rgba(240,5,17,0.9164040616246498) 0%, rgba(105,0,0,0.896796218487395) 50%, rgba(133,31,31,1) 92%);
-}
+    background: rgb(5,100,240);
+    background: linear-gradient(90deg, rgba(5,100,240,0.9164040616246498) 2%, rgba(31,131,133,1) 26%, rgba(30,116,132,1) 42%, rgba(29,97,131,1) 55%, rgba(28,73,130,1) 69%, rgba(0,94,105,0.896796218487395) 81%); }
