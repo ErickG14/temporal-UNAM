@@ -1,0 +1,16 @@
+.centrado{
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    
+
+}
+
+.fondo1 {
+    background: rgb(0,4,14);
+    background: linear-gradient(90deg, rgba(0,4,14,0.9164040616246498) 0%, rgba(9,9,121,0.896796218487395) 21%, rgba(0,212,255,1) 91%);
+}
+
+.fondo2{
+    background: rgb(240,5,17);
+background: linear-gradient(90deg, rgba(240,5,17,0.9164040616246498) 0%, rgba(105,0,0,0.896796218487395) 50%, rgba(133,31,31,1) 92%);
+}
