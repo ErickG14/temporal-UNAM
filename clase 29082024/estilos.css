@@ -4,3 +4,8 @@
     border: 1px solid red;
 }
 
+@font-face {
+    font-family: ejemplo;
+    src: url(Recursos/Minecraft.ttf);
+}
+
