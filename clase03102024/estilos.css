@@ -1,6 +1,7 @@
 .centrado{
+    color: aliceblue;
     text-align: center;
-    border: 2px solid rebeccapurple;
+    border: 2px solid rgb(255, 255, 255);
     
 
 }
@@ -12,4 +13,29 @@ background: linear-gradient(90deg, rgba(5,240,226,0.9164040616246498) 2%, rgba(3
 
 .fondo2{
     background: rgb(5,100,240);
-    background: linear-gradient(90deg, rgba(5,100,240,0.9164040616246498) 2%, rgba(31,131,133,1) 26%, rgba(30,116,132,1) 42%, rgba(29,97,131,1) 55%, rgba(28,73,130,1) 69%, rgba(0,94,105,0.896796218487395) 81%); }
+    background: linear-gradient(90deg, rgba(5,100,240,0.9164040616246498) 2%, rgba(31,131,133,1) 26%, rgba(30,116,132,1) 42%, rgba(29,97,131,1) 55%, rgba(28,73,130,1) 69%, rgba(0,94,105,0.896796218487395) 81%); 
+}
+
+.imagen{
+    width: 300px;
+    justify-content: center ;
+    border: 1px solid red;
+}
+
+.bg{
+    min-height: 100vh;
+    background: url(MEDIA/fondo3.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.bg2{
+    min-height: 100vh;
+    background: url(MEDIA/pexels-pixabay-33109.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.texto{
+    color: aliceblue;
+}
